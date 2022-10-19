@@ -1,0 +1,22 @@
+.main {
+    padding: 57px 27px;
+    color: white;
+}
+
+.main-title {
+    margin: 0;
+}
+
+.main-fact {
+    margin-top: 46px;
+    max-width: 400px;
+}
+
+.main-fact > li {
+    padding-block: 10px;
+}
+
+.main-fact > li::marker{
+    font-size: 1.4rem;
+    color: #61DAFB;
+}

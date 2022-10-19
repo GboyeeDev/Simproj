@@ -1,0 +1,27 @@
+.nav {
+    display: flex;
+    background-color: #21222A;
+    height: 60px;
+    padding: 30px 25px;
+}
+
+.nav > img{
+    height: 30px;
+    margin-right: 10px;
+}
+
+.nav-logo-text, .nav-title {
+    margin: 0;
+}
+
+.nav-logo-text {
+    margin-right: auto;
+    color: #61DAFB;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.nav-title {
+    color: #DEEBF8;
+
+}
